@@ -6,4 +6,4 @@ Best accuracy was achieved with Random Forest classifier + PCA at 84%.
 CNN achieved 76% accuracy.
 CLIP achieved 33 % zero shot accuracy and 54% fine tuned accuracy.
 
-Copy images to insta_data for notebooks to run
+Copy images to insta_data folder for notebooks to run
